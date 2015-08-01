@@ -171,14 +171,7 @@ var ACELEROMETRO = false;
   	//http://www.createjs.com/soundjs
   	createjs.Sound.registerSound("sounds/collision8.mp3", "choque");
   	createjs.Sound.registerSound("sounds/explosion2.mp3", "explosion");
-  	//createjs.Sound.registerSound("sounds/fondo.mp3", "fondo");
-  	//createjs.Sound.play("choque");
- 	/*
- 	fondo.on("loop", handleLoop);
-function handleLoop(event) {
-     fondo.volume = fondo.volume * 0.5;
- }
- */
+  	
   	//Ubicar un elemento en una esfera...
   	//http://stackoverflow.com/a/15048260
 	function randomSpherePoint(x0,y0,z0,radius)
