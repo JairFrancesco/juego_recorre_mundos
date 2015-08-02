@@ -4,6 +4,16 @@ Juego realizado con fines educativos, que busca enseñar el manejo de [WebGL], e
 
 Se tomó como inspiración el minijuego denominado Moon Launcher del juego [Despicable Me: Minion Rush]
 
+### Demo.
+
+Es posible acceder al juego a través de la dirección: http://jorger.github.io/juego_recorre_mundos/
+
+Vídeo que muestra el funcionamiento del juego: https://youtu.be/_se6ORNfRxI
+
+Para dispositivos móviles es posible escanear el siguiente código QR.
+
+![QR Juego](https://dl.dropboxusercontent.com/u/181689/imgGame/qrJuego.png)
+
 ### Objetivo
 
 El objetivo del juego es recoger una serie de elementos a través de diferentes plantas/lunas, algunos de los cuales giran alrededor del planeta, estos objetos son los enemigos al atraparlos (colisión) se produce un sonido diferente, sí el juego se está ejecutando en un dispositivo móvil además vibrará.
@@ -58,14 +68,6 @@ Para que el juego funcione como una "aplicación nativa" (webApp) es necesario "
   "orientation": "portrait"
 }
 ```
-
-### Demo.
-
-Es posible acceder al juego a través de la dirección: http://jorger.github.io/juego_recorre_mundos/
-
-Para dispositivos móviles es posible escanear el siguiente código QR.
-
-![QR Juego](https://dl.dropboxusercontent.com/u/181689/imgGame/qrJuego.png)
 
 ### Futuras mejoras.
 
