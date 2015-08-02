@@ -59,6 +59,14 @@ Para que el juego funcione como una "aplicación nativa" (webApp) es necesario "
 }
 ```
 
+### Demo.
+
+Es posible acceder al juego a través de la dirección: http://jorger.github.io/juego_recorre_mundos/
+
+Para dispositivos móviles es posible escanear el siguiente código QR.
+
+![QR Juego](https://dl.dropboxusercontent.com/u/181689/imgGame/qrJuego.png)
+
 ### Futuras mejoras.
 
 Como se ha específicado la actividad nació con un elemento pedagógico, que busca poner en práctica los conceptos relacionos al manejo de WebGL.
