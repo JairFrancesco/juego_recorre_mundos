@@ -76,7 +76,9 @@ Como se ha específicado la actividad nació con un elemento pedagógico, que bu
 En próximas versiones se busca dar mayor jugabilidad a la actividad, establecer vida al personaje así como adicionar animaciones a acciones como colisionar con objetos válidos y explosiones con elementos inválidos.
 
 ### Autor
-Jorge Rubaino [@ostjh]
+Jorge Rubaino
+
+[@ostjh]
 License
 ----
 MIT
