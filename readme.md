@@ -16,7 +16,7 @@ Para dispositivos móviles es posible escanear el siguiente código QR.
 
 ### Objetivo
 
-El objetivo del juego es recoger una serie de elementos a través de diferentes plantas/lunas, algunos de los cuales giran alrededor del planeta, estos objetos son los enemigos al atraparlos (colisión) se produce un sonido diferente, sí el juego se está ejecutando en un dispositivo móvil además vibrará.
+El objetivo del juego es recoger una serie de elementos a través de diferentes planetas/lunas, algunos de los cuales giran alrededor del planeta, estos objetos son los enemigos al atraparlos (colisión) se produce un sonido diferente, sí el juego se está ejecutando en un dispositivo móvil además vibrará.
 
 ![Escritorio](https://dl.dropboxusercontent.com/u/181689/imgGame/screen01.png)
 
